@@ -14,6 +14,7 @@ gui.yes=Yes
 gui.no=No
 gui.none=None
 gui.all=All
+
 gui.recipebook.moreRecipes=Right Click for more
 gui.recipebook.toggleRecipes.all=Showing all
 gui.recipebook.toggleRecipes.craftable=Showing craftable
